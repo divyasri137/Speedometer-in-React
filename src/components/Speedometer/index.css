@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.image {
+  width: 35%;
+}
+.container {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  color: #ffffff;
+}
+.heading {
+  color: #ffffff;
+  font-weight: normal;
+}
+.btn1 {
+  height: 32px;
+  background-color: #0b69ff;
+  border-radius: 4px;
+  color: #ffffff;
+  margin: 20px;
+  width: 100px;
+}
+.btn2 {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  height: 32px;
+  color: #ffffff;
+  width: 100px;
+}
+.desc {
+  font-size: 24px;
+  font-weight: 500;
+}
+.desc1 {
+  color: #cbd5e1;
+}
